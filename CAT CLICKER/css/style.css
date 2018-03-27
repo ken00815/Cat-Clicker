@@ -1,0 +1,14 @@
+body {
+  width: 100vw;
+}
+
+li, ul {
+  list-style-type: none;
+}
+
+ul {
+  cursor: pointer;
+}
+ul:hover {
+  background: yellow;
+}
